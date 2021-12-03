@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\bin\Debug\expert_system_neylor.exe
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\bin\Debug\expert_system_neylor.exe.config
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.correct.resources
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.diagnostic.resources
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.Form1.resources
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.Properties.Resources.resources
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.result.resources
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.exe
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.pdb
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\bin\Debug\expert_system_neylor.pdb
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\expert_system_neylor\expert_system_neylor\obj\Debug\expert_system_neylor.title.resources
